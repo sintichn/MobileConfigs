@@ -21,15 +21,15 @@
 								<key>InstallPowerPoint</key>
 								<true/>
 								<key>InstallOutlook</key>
-								<true/>
-								<key>InstallOneNote</key>
 								<false/>
+								<key>InstallOneNote</key>
+								<true/>
 								<key>InstallOneDrive</key>
 								<false/>
 								<key>InstallTeams</key>
 								<false/>
 								<key>InstallAutoUpdate</key>
-								<false/>
+								<true/>
 							</dict>
 						</dict>
 					</array>
